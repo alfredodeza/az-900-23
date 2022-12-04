@@ -14,15 +14,13 @@ This repository has _my own notes_ but you should create yours as part of studyi
 
 * Download the skills outline
 
-* Go through the 6 sections:
+* Go through the 3 Learning Paths:
 
-1. Describe core Azure concepts
-1. Describe core Azure services
-1. Describe core solutions and management tools on Azure
-1. Describe general security and network security features
-1. Describe identity, governance, privacy, and compliance features
-1. Describe Azure cost management and SLAs
+1. [Describe Cloud Concepts](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=academic-0000-alfredodeza)
+1. [Describe Azure Architecture and Services](https://learn.microsoft.com/training/paths/azure-fundamentals-describe-azure-architecture-services/?WT.mc_id=academic-0000-alfredodeza)
+1. [Describe Azure management and gobernance](https://learn.microsoft.com/training/paths/describe-azure-management-governance/?WT.mc_id=academic-0000-alfredodeza)
 
+Next, go through each Learning Path and create a markdown file for each that includes every learn module.
 
 * Summarize
 
