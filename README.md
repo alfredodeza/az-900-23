@@ -1,4 +1,4 @@
-# Microsoft Azure Fundamentals (AZ-900) Certification Study Notes 
+# Microsoft Azure Fundamentals (AZ-900) Certification Study Notes
 _Revised for 2022-2023_
 
 Study notes and guide for the Azure Fundamentals Certification, part of a full [O'Reilly course](https://learning.oreilly.com/videos/microsoft-azure-fundamentals/27702422VIDEOPAIML/).
@@ -6,6 +6,18 @@ Study notes and guide for the Azure Fundamentals Certification, part of a full [
 ## 🚀 Watch the Video course
 
 [![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:27702422VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/microsoft-azure-fundamentals/27702422VIDEOPAIML/ "Azure Fundamentals Certification")
+
+## 📘 Study Notes
+
+Each markdown has its own Learn Modules which are listed:
+
+[Describe Cloud Concepts](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=academic-0000-alfredodeza)
+- [Describe Cloud Computing](https://learn.microsoft.com/training/modules/describe-cloud-compute/?WT.mc_id=academic-0000-alfredodeza)
+- [Describe benefits of using cloud services](https://learn.microsoft.com/training/modules/describe-benefits-use-cloud-services/?WT.mc_id=academic-0000-alfredodeza)
+- [Describe cloud service types](https://learn.microsoft.com/training/modules/describe-benefits-use-cloud-services/?WT.mc_id=academic-0000-alfredodeza)
+[Describe Azure Architecture and Services](https://learn.microsoft.com/training/paths/azure-fundamentals-describe-azure-architecture-services/?WT.mc_id=academic-0000-alfredodeza)
+[Describe Azure management and governance](https://learn.microsoft.com/training/paths/describe-azure-management-governance/?WT.mc_id=academic-0000-alfredodeza)
+
 
 ## 💡 Create a study strategy
 This repository has _my own notes_ but you should create yours as part of studying for the course. I show you how I did it below 👇
@@ -18,7 +30,7 @@ This repository has _my own notes_ but you should create yours as part of studyi
 
 1. [Describe Cloud Concepts](https://learn.microsoft.com/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=academic-0000-alfredodeza)
 1. [Describe Azure Architecture and Services](https://learn.microsoft.com/training/paths/azure-fundamentals-describe-azure-architecture-services/?WT.mc_id=academic-0000-alfredodeza)
-1. [Describe Azure management and gobernance](https://learn.microsoft.com/training/paths/describe-azure-management-governance/?WT.mc_id=academic-0000-alfredodeza)
+1. [Describe Azure management and governance](https://learn.microsoft.com/training/paths/describe-azure-management-governance/?WT.mc_id=academic-0000-alfredodeza)
 
 Next, go through each Learning Path and create a markdown file for each that includes every learn module.
 
@@ -29,15 +41,12 @@ Sample repo structure:
 ```
 .
 ├── 1-cloud-concepts.md
-├── 2-core-services.md
-├── 3-core-solutions.md
-├── 4-security.md
-├── 5-governance-compliance.md
-├── 6-cost-management.md
+├── 2-architecture-and-services.md
+├── 3-management-and-governance.md
 └── README.md
 ```
 
-1. Create a repository and add 6 markdown files, one for each section
+1. Create a repository and add the markdown files, one for each section
 1. Start summarizing, adding the Learning Path and Learning Module for each section
 1. Capture services, definitions, and any key differentiators
 
